@@ -25,7 +25,7 @@ class PwAsset extends AssetBundle
      */
     public $js=[
         'js/bootbox.min.js',
-        'js/delete.js'
+        'js/confirm.js'
     ];
 
     /*
