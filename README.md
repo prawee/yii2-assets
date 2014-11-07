@@ -24,3 +24,11 @@ to the require section of your `composer.json` file.
 
 Usage
 -----
+
+- on view 
+```php
+use prawee\assets\PwAsset;
+PwAsset::register($this);
+.......
+.......
+```
