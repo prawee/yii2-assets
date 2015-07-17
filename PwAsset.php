@@ -18,6 +18,7 @@ class PwAsset extends AssetBundle
      * @inheritdoc
      */
     public $css=[
+        'css/gridview.css'
     ];
 
     /*
